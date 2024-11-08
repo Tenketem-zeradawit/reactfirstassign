@@ -5,7 +5,7 @@ function Header() {
     return (
       <header>
         <div className="between">
-        <h1>Company name</h1>
+        <h1>Company Name</h1>
         
         <nav>
             <ul>
